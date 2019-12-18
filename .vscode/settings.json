@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
+}
